@@ -97,5 +97,9 @@ class Usuario extends Conexion
         }
     }
 
+    public function deleteUsuario(int $id){
+        
+    }
+
 
 }
