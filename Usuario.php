@@ -2,6 +2,7 @@
 require_once("Autoload.php");
 class Usuario extends Conexion
 {
+    //comentario
     private $strNombre;
     private $intId;
     private $intTelefono;
